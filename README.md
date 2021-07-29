@@ -13,6 +13,6 @@ BOT</h3>
 
 <h1 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin: 24px 0px 16px; padding-bottom: 0.3em;">
 
-<a href=https://telegra.ph/file/c82b154be4090e31f7225.png imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="500" height="500" src="https://telegra.ph/file/987616c1431910d706bad.jpg" width="500" /></a></div>
+<a href= https://telegra.ph/file/c82b154be4090e31f7225.png imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="500" height="500" src="https://telegra.ph/file/987616c1431910d706bad.jpg" width="500" /></a></div>
 
 <div>
